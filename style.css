@@ -1,0 +1,26 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index :99999;
+}
+.jaipur{
+
+    font-size:60px;
+}
+body{
+    text-align: center;
+}
+#Pune {
+    color:blue;
+    background: linear-gradient( #f5d742 30%,#a4f542 60%);
+    border-width: 30px;
+    border-color:lightgreen;
+    border-style: solid;
+}
+#Mumbai {
+    color:blue;
+ background: linear-gradient( #69f542 30%,#42f5b3 60%);
+    border-width: 30px;
+    border-color:lightgreen;
+    border-style: solid;
+}
